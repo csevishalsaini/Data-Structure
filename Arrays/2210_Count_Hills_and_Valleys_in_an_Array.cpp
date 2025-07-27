@@ -2,6 +2,10 @@
 using namespace std;
 #include<vector>
 
+
+// Time Complaxity - O(N)
+// Space Complaxity - O(1)
+
 class Solution {
 public:
     int countHillValley(vector<int>& nums) {
